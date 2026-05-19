@@ -1,0 +1,7 @@
+# Ignore generated result images from kompresi.py
+hasil_foto_QF_*.png
+hasil_WM_QF_*.png
+
+# Allow everything inside the Output directory
+!Output/
+!Output/**
